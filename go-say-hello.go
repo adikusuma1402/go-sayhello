@@ -1,6 +1,6 @@
-package gosayhello
+package hello
 
-func SayHello() string {
+func Menyapa() string {
 
-	return "Hello"
+	return "Halo Semua"
 }
